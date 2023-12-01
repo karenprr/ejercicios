@@ -1,2 +1,2 @@
 # Algortimos JS.
-Ejercicios JavaScript
+Repositorio con todas los ejercicios :)
